@@ -72,7 +72,7 @@ logo = """
 
    Suleman Breaker 
 
-   ▄︻̷̿┻̿═━一
+  
 
    King Of My Mom And Dad
 
